@@ -4,6 +4,7 @@ body{
 }
 #header{
     display: flex;
+    margin-bottom: 10%;
 }
 h1{font-size: 50px;
 
@@ -34,3 +35,14 @@ h1{font-size: 50px;
 .java{
     color: rgb(58, 232, 19);
 }
+#dream-area{
+    display: flex;
+}
+.dream-area-part{
+    width: 50%;
+    padding-right: 5%;
+}
+#dream-area-part img{
+    width:10px ;
+}
+
